@@ -3,7 +3,7 @@
 CURRENT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PATH="/usr/local/bin:$PATH:/usr/sbin"
 
-default_binding_key="s"
+default_binding_key="e"
 binding_option="@spotifybinding"
 
 get_tmux_option() {
