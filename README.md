@@ -15,7 +15,7 @@ Show a nice menu to manage Spotify application.
 ### With Tmux Plugin Manager
 Add the plugin in `.tmux.conf`:
 ```
-set -g @plugin 'xamut/tmux-spotify'
+set -g @plugin 'timtyrrell/tmux-spotify-controls'
 ```
 Press `prefix + I` to fetch the plugin and source it. Done.
 
